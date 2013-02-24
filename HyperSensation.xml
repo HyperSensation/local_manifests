@@ -17,6 +17,9 @@
   <remove-project name="CyanogenMod/android_packages_apps_Mms" path="packages/apps/Mms" />
   <project name="HyperSensation/android_packages_apps_Mms" path="packages/apps/Mms" revision="ics" />
 
+  <remove-project name="CyanogenMod/android_packages_apps_Calendar" path="packages/apps/Calendar" />
+  <project name="HyperSensation/android_packages_apps_Calendar" path="packages/apps/Calendar" revision="ics" />
+
   <remove-project name="CyanogenMod/android_packages_apps_Camera" path="packages/apps/Camera" />
   <project name="HyperSensation/android_packages_apps_Camera" path="packages/apps/Camera" revision="ics" />
 </manifest>
