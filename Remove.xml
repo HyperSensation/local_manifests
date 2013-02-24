@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove-project name="CyanogenMod/android_packages_apps_Apollo" path="packages/apps/Apollo" />
+  <remove-project name="CyanogenMod/android_packages_apps_CMUpdater" path="packages/apps/CMUpdater" />
+  <remove-project name="CyanogenMod/android_packages_apps_CMWallpapers" path="packages/apps/CMWallpapers" />
+  <remove-project name="CyanogenMod/android_packages_apps_Stk" path="packages/apps/Stk" />
+  <remove-project name="CyanogenMod/android_packages_apps_DSPManager" path="packages/apps/DSPManager" />
+  <remove-project name="CyanogenMod/android_packages_apps_Email" path="packages/apps/Email" />
+  <remove-project name="CyanogenMod/android_packages_apps_Exchange" path="packages/apps/Exchange" />
+  <remove-project name="CyanogenMod/android_packages_apps_Music" path="packages/apps/Music" />
+</manifest>

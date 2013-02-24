@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="HyperSensation/android_device_htc_pyramid" path="device/htc/pyramid" revision="ics" />
+
+  <remove-project name="CyanogenMod/android_frameworks_base" path="frameworks/base" />
+  <project name="HyperSensation/android_frameworks_base" path="frameworks/base" revision="ics" />
+
+  <remove-project name="CyanogenMod/android_packages_apps_Settings" path="packages/apps/Settings" />
+  <project name="HyperSensation/android_packages_apps_Settings" path="packages/apps/Settings" revision="ics" />
+
+  <remove-project name="CyanogenMod/android_packages_apps_Phone" path="packages/apps/Phone" />
+  <project name="HyperSensation/android_packages_apps_Phone" path="packages/apps/Phone" revision="ics" />
+
+  <remove-project name="CyanogenMod/android_packages_apps_Contacts" path="packages/apps/Contacts" />
+  <project name="HyperSensation/android_packages_apps_Contacts" path="packages/apps/Contacts" revision="ics" />
+
+  <remove-project name="CyanogenMod/android_packages_apps_Camera" path="packages/apps/Camera" />
+  <project name="HyperSensation/android_packages_apps_Camera" path="packages/apps/Camera" revision="ics" />
+</manifest>
